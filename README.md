@@ -1,0 +1,1 @@
+This repository contains the source code for [this](https://yeabuthow.blogspot.com/2015/12/amazon-simple-workflow-service-java.html) Amazon Simple Workflow Tutorial blog post.
